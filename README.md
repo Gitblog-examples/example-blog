@@ -1,0 +1,1 @@
+This is an example git blogs setup. More details coming soon.
